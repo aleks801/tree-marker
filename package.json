@@ -1,6 +1,6 @@
 {
   "name": "marker-tree",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The library for marking all needed DOM elements for e2e testing. It automaticaly creates selector and key from semantic MerkerTree that being used both in the project and your e2e solution.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
